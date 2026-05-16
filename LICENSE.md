@@ -1,4 +1,4 @@
-# 
+# custom JetBrains Rider for PC | JetBrains Rider for Windows Integration | docker-support + project-management is the best JetBrains Rider for PC | JetBrains Rider for Windows
 
 
 
